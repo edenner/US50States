@@ -3,10 +3,10 @@
 - obtain, integrate, and clean data on the US 50 states into a composite and useable dataframe
 - generate insightful visualizations depicting variable relationships, state comparisons, and regional trends
 - write SQL queries for statistical analysis of variable distributions
-< a /br>
+<br/>
  ##### How to View:
 The jupyter notebook `state.ipynb` has all python code, step-by-step explanations of the process, all generated output, all data sources and links, and notes for when the included SQL scripts were utilized. Please follow along `state.ipynb` and see SQL scripts when noted. 
-<a /br>
+<br/>
 ### Process and Technologies:
 1. Data Wrangling 
    - web scraping using `requests` and `BeautifulSoup`
@@ -18,4 +18,3 @@ The jupyter notebook `state.ipynb` has all python code, step-by-step explanation
    - plotting of features using `matplotlib` and `seaborn`
    - summary tables using `pandas`
    - statistical analysis using SQL queries in accompanying scripts
- < a /br>
