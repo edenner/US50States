@@ -15,4 +15,4 @@ The jupyter notebook `state.ipynb` has all python code, step-by-step explanation
 3. Data Visualizations and Data Analysis
    - plotting of features using `matplotlib` and `seaborn`
    - summary tables using `pandas`
-   - statistical analysis using SQL queries in accompanying scripts
+   - SQL queries: aggregate functions, subqueries, standard clauses: GROUP BY, WHERE, ORDER BY, UNION, DENSE_RANK, LIMIT, ROUND, PERCENTILE_DISK, etc
